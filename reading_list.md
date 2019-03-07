@@ -28,6 +28,10 @@ Geoffrey West
 
 - **Statistical Inference as Severe Testing: How to Get Beyond the Statistics Wars**  
 Deborah G. Mayo
+- **Freakonomics**  
+Steven D. Levitt, Stephen J. Dubner
+- **To Save Everything, Click Here: Technology, Solutionism, and the Urge to Fix Problems that Don’t Exist**  
+Evgeny Morozov
 
 <a id="pile"></a>
 ## Pile

@@ -20,18 +20,18 @@ In the following I will track the books that I have finished reading, start to l
 Ajay Agrawal, Joshua Gans, Avi Goldfarb
 - **Scale: The Universal Laws of Growth, Innovation, Sustainability, and the Pace of Life in Organisms, Cities, Economies, and Companies**  
 Geoffrey West
-
-
+- **Freakonomics**  
+Steven D. Levitt, Stephen J. Dubner
 
 <a id="in-progress"></a>
 ## In-Progress
 
 - **Statistical Inference as Severe Testing: How to Get Beyond the Statistics Wars**  
 Deborah G. Mayo
-- **Freakonomics**  
-Steven D. Levitt, Stephen J. Dubner
 - **To Save Everything, Click Here: Technology, Solutionism, and the Urge to Fix Problems that Don’t Exist**  
 Evgeny Morozov
+- **The End of Theory: Financial Crises, the Failure of Economics, and the Sweep of Human Interaction**  
+Richard Bookstaber
 
 <a id="pile"></a>
 ## Pile

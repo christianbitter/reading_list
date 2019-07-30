@@ -28,14 +28,16 @@ Richard Bookstaber
 Noam Chomsky
 - **Our Media, Not Theirs: The Democratic Struggle against Corporate Media (Open Media Series)**  
 John Nichols, Robert W. McChesney 
+- **To Save Everything, Click Here: Technology, Solutionism, and the Urge to Fix Problems that Don’t Exist**  
+Evgeny Morozov
+- **Die Start-up-Illusion: Wie die Internet-Ökonomie unseren Sozialstaat ruiniert**  
+Steven Hill
 
 <a id="in-progress"></a>
 ## In-Progress
 
 - **Statistical Inference as Severe Testing: How to Get Beyond the Statistics Wars**  
 Deborah G. Mayo
-- **To Save Everything, Click Here: Technology, Solutionism, and the Urge to Fix Problems that Don’t Exist**  
-Evgeny Morozov
 
 <a id="pile"></a>
 ## Pile

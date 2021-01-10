@@ -1,4 +1,4 @@
-# Reading List 2019
+# Reading List 2021-2019
 ----
 
 <!-- MarkdownTOC autolink="true" bracket="round" autoanchor="true" -->
@@ -16,6 +16,10 @@ In the following I will track the books that I have finished reading, start to l
 <a id="completed"></a>
 ## Completed
 
+- **Die falschen Freunde der einfachen Leute**  
+Robert Misik
+- **Animal Farm**  
+George Orwell
 - **Prediction Machines: The Simple Economics of Artificial Intelligence**  
 Ajay Agrawal, Joshua Gans, Avi Goldfarb
 - **Scale: The Universal Laws of Growth, Innovation, Sustainability, and the Pace of Life in Organisms, Cities, Economies, and Companies**  
@@ -36,6 +40,10 @@ Steven Hill
 <a id="in-progress"></a>
 ## In-Progress
 
+- **A Quantitative Primer on Investments with R**  
+Dale W.R. Rosenthal
+- **Regression and Other Stories**  
+Andrew Gelman, Jennifer Hill, Aki Vehtari
 - **Statistical Inference as Severe Testing: How to Get Beyond the Statistics Wars**  
 Deborah G. Mayo
 
